@@ -1,7 +1,13 @@
-
 # Introdução à Engenharia de Requisitos
 
 ## O que é Engenharia de Requisitos?
+
+Segundo a norma IEEE 610.12-1990 (Standard Glossary of Software Engineering Terminology), Engenharia de Requisitos é definida como:
+
+> “A discipline within software engineering that focuses on determining and documenting the functions and constraints of software systems.”  
+> *(Uma disciplina dentro da engenharia de software que se concentra em determinar e documentar as funções e restrições de sistemas de software.)*
+
+Essa definição enfatiza o papel da engenharia de requisitos como uma área formal da engenharia de software dedicada a identificar as funcionalidades e restrições de um sistema de forma documentada e compreensível.
 
 Engenharia de Requisitos é uma área da Engenharia de Software responsável por identificar, analisar, documentar, validar e gerenciar os requisitos de um sistema. Requisitos representam as necessidades ou condições que um sistema deve atender para satisfazer os objetivos de seus usuários e stakeholders.
 

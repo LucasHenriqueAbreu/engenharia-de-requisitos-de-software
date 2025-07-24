@@ -17,10 +17,13 @@ Vamos começar construindo as bases para pensar e atuar como analistas de requis
 ### 1. [Introdução à Engenharia de Requisitos](introducao/README.md)
 Vamos explorar a importância dos requisitos no sucesso de um projeto e entender o papel da engenharia de requisitos no ciclo de vida de software.
 
-### 2. [Conceitos e Classificações](conceitos-classificacoes/README.md)
+### 2. [Princípios da Comunicação](principios-comunicacao/README.md)
+Vamos compreender como a comunicação eficaz entre analistas e stakeholders é fundamental para o sucesso na engenharia de requisitos. Abordaremos princípios, ruídos de comunicação, escuta ativa e técnicas para melhorar o entendimento mútuo.
+
+### 3. [Conceitos e Classificações](conceitos-classificacoes/README.md)
 Vamos aprender a diferenciar os tipos de requisitos: de usuário, de sistema, funcionais, não funcionais e de domínio.
 
-### 3. [Técnicas de Elicitação Iniciais](tecnicas-elicitao/README.md)
+### 4. [Técnicas de Elicitação Iniciais](tecnicas-elicitao/README.md)
 Vamos aplicar técnicas iniciais como entrevistas, observação de usuários e workshops colaborativos para levantamento de requisitos.
 
 ## Atividade prática do módulo

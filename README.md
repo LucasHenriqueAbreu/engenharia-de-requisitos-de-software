@@ -28,6 +28,7 @@ A disciplina de Engenharia de Requisitos de Software tem como foco apresentar os
 ### [MÓDULO 1 – Introdução à Engenharia de Requisitos](modulo1/README.md)
 
 - Conceitos básicos de software e engenharia de software
+- Princípios da Comunicação
 - Tipos de requisitos (funcionais, não funcionais, de domínio)
 - Ciclo de vida dos requisitos
 
