@@ -96,14 +96,14 @@ marp: true
 
 ## Estudo de Caso – Comunicação Ruim
 
-> “O sistema deve ser rápido ao processar pedidos.”
+> O sistema deve ser rápido ao processar pedidos.
 
 ### Problemas:
 - Vago: o que é “rápido”?
 - Critério não mensurável
 
 ### Forma melhorada:
-> “O sistema deve processar pedidos em até 3 segundos após o envio, em 95% dos casos.”
+> O sistema deve processar pedidos em até 3 segundos após o envio, em 95% dos casos.
 
 ---
 

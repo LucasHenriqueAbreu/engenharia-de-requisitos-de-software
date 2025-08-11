@@ -99,13 +99,6 @@ Exemplo:
 **Contexto:**
 A universidade quer desenvolver um sistema para gerenciar o empréstimo de livros em sua biblioteca. O sistema será usado por alunos, professores e bibliotecários.
 
-**Tarefa:**
-- Levantar:
-  - 3 requisitos funcionais
-  - 2 requisitos não funcionais
-  - 1 requisito de domínio
-- Justificar suas escolhas com base no cenário
-
 ---
 
 ## Exercício em Sala

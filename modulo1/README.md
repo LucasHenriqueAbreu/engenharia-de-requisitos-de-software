@@ -26,7 +26,11 @@ Vamos aprender a diferenciar os tipos de requisitos: de usuário, de sistema, fu
 ### 4. [Técnicas de Elicitação Iniciais](tecnicas-elicitao/README.md)
 Vamos aplicar técnicas iniciais como entrevistas, observação de usuários e workshops colaborativos para levantamento de requisitos.
 
-## Atividade prática do módulo
+## Atividades prática do módulo
 
-### Levantamento de requisitos com stakeholders simulados
+### Trabalho 1: Levantamento e Comunicação de Requisitos
+Aplicar os conceitos aprendidos sobre Engenharia de Requisitos e Princípios de Comunicação na elaboração de um levantamento e especificação inicial de requisitos para um sistema fictício, com foco em clareza, objetividade e comunicação eficaz com stakeholders.
+[Mais informações](trabalho1/README.md)
+
+### Trabalho 2: Levantamento de requisitos com stakeholders simulados
 Você irá simular reuniões com diferentes perfis de usuários para coletar requisitos para um sistema proposto. A atividade será conduzida em grupo e resultará em um esboço inicial do documento de requisitos.
