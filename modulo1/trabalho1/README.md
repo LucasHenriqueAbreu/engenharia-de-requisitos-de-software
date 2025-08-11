@@ -27,13 +27,13 @@ O objetivo é **reduzir filas nos postos de saúde** e **otimizar o tempo de mé
 
 ## Tarefas
 
-### Parte 1 – Elicitação Simulada (20 minutos)
+### Parte 1 – Elicitação Simulada
 - Simulem reunião inicial entre analista e stakeholder.
 - O analista faz perguntas para entender as necessidades.
 - O stakeholder responde com base no cenário.
 - O documentador registra aplicando os **Princípios da Comunicação**.
 
-### Parte 2 – Especificação Inicial (30 minutos)
+### Parte 2 – Especificação Inicial
 - Transformem as anotações em requisitos claros:
   - **3 a 5 Requisitos Funcionais**
   - **2 a 3 Requisitos Não Funcionais**
@@ -41,13 +41,13 @@ O objetivo é **reduzir filas nos postos de saúde** e **otimizar o tempo de mé
 - Incluam justificativas para cada requisito.
 - Validem internamente.
 
-### Parte 3 – Documento Final (20 minutos)
+### Parte 3 – Documento Final
 - Resumo do contexto.
 - Lista de requisitos especificados.
 - **Mapa de relacionamento entre requisitos e objetivos do sistema** (ver abaixo).
 - Observações sobre aplicação dos princípios de comunicação.
 
-### Parte 4 – Apresentação (20 minutos)
+### Parte 4 – Apresentação
 - Apresentar:
   - Contexto e principais requisitos
   - Como aplicaram os princípios de comunicação
