@@ -1,6 +1,10 @@
-
 # Disciplina: Engenharia de Requisitos de Software
+
+📘 Esta disciplina tem como base principal o livro de Ian Sommerville:  
+[Engenharia de Software (PDF disponível aqui)](https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf)
+
 Acesse neste link [link](https://lucashenriqueabreu.github.io/engenharia-de-requisitos-de-software/)
+
 
 ## Descrição
 
