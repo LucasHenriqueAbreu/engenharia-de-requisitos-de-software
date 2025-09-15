@@ -19,8 +19,8 @@ Por fim, discutiremos a ideia de **engenharia de requisitos contínua**, essenci
 ### 1. [Modelos Preditivos e Ágeis](modelos/README.md)
 Vamos analisar os processos tradicionais de engenharia de requisitos e como eles se diferenciam das práticas ágeis.
 
-### 2. [Casos de Uso vs. User Stories](casos-vs-stories/README.md)
-Vamos compreender as diferenças, vantagens e limitações entre casos de uso e user stories, aplicando exemplos práticos de cada abordagem.
+### 2. [Casos de Uso](casos-de-uso/README.md)
+Vamos compreender o que são casos de uso, como identificá-los, representá-los em UML, e aplicá-los na elicitação de requisitos por meio de exemplos práticos. Também discutiremos suas vantagens, limitações e boas práticas de documentação.
 
 ### 3. [Engenharia de Requisitos Contínua](requisitos-continuos/README.md)
 Vamos discutir como lidar com requisitos em sistemas em constante mudança, aplicando práticas de revisão e adaptação contínua.

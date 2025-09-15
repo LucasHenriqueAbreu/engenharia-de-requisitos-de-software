@@ -40,7 +40,7 @@ A disciplina de Engenharia de Requisitos de Software tem como foco apresentar os
 ### [MÓDULO 2 – Processos e Modelos de Requisitos](modulo2/README.md)
 
 - Modelos preditivos vs. ágeis
-- Casos de uso vs. user stories
+- Casos de uso
 - Engenharia de requisitos contínua
 
 ### [MÓDULO 3 – Técnicas de Elicitação de Requisitos](modulo3/README.md)
