@@ -43,41 +43,43 @@ A disciplina de Engenharia de Requisitos de Software tem como foco apresentar os
 - Casos de uso
 - Engenharia de requisitos contínua
 
-### [MÓDULO 3 – Técnicas de Elicitação de Requisitos](modulo3/README.md)
+### [REVISÂO](revisao_modulo_1_e_2/README.md)
 
-- Entrevistas, questionários e observação
-- Prototipação e brainstorming
-- Workshops e técnicas colaborativas (JAD, Design Thinking)
+### [MÓDULO 3 – Modelagem Avançada de Requisitos](modulo3/README.md)
 
-### [MÓDULO 4 – Análise e Modelagem de Requisitos](modulo4/README.md)
+- Diagramas de sequência
+- Diagramas de atividade
+- Representação de cenários complexos
 
-- Identificação de conflitos, ambiguidade e redundâncias
-- Modelagem com UML: casos de uso, atividades e estados
-- Ferramentas de modelagem (Lucidchart, Draw.io, StarUML)
-
-### [MÓDULO 5 – Especificação e Documentação](modulo5/README.md)
-
-- Padrões de documentação de requisitos
-- Linguagem natural estruturada
-- Critérios de qualidade de requisitos
-
-### [MÓDULO 6 – Validação e Verificação](modulo6/README.md)
+### [MÓDULO 4 – Validação de Requisitos](modulo4/README.md)
 
 - Revisão de requisitos com stakeholders
-- Técnicas de validação
-- Testes baseados em requisitos
+- Prototipagem rápida
+- Análise de domínio aplicada à validação
 
-### [MÓDULO 7 – Gerenciamento de Requisitos](modulo7/README.md)
+### [MÓDULO 5 – Rastreabilidade e Gerenciamento](modulo5/README.md)
 
-- Controle de mudanças e versionamento
-- Priorização (MoSCoW, Kano, 100 dollars)
-- Rastreabilidade e documentação viva
+- Conceito e importância da rastreabilidade
+- Rastreabilidade bidirecional e ferramentas especializadas
+- Controle de mudanças e priorização de requisitos
 
-### [MÓDULO 8 – Ferramentas e Estudos de Caso](modulo8/README.md)
+### [MÓDULO 6 – Ferramentas de Apoio](modulo6/README.md)
 
-- Jira, Confluence e RequisitePro
-- Estudos de caso simulados
-- Projeto final com backlog, protótipos e documentação completa
+- Documentação e rastreabilidade com Jira, Confluence e RequisitePro
+- Integração com processos de desenvolvimento
+- Boas práticas no uso de ferramentas
+
+### [MÓDULO 7 – Projeto Prático em Grupo](modulo7/README.md)
+
+- Desenvolvimento de um projeto prático de requisitos
+- Backlog, protótipos e documentação
+- Discussão e feedback dos projetos
+
+### [MÓDULO 8 – Apresentação Final](modulo8/README.md)
+
+- Apresentação dos resultados pelos grupos
+- Análise comparativa dos projetos
+- Consolidação dos aprendizados
 
 ---
 
