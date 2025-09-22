@@ -293,12 +293,12 @@ c) Dado que o usuário está na tela de login; Quando clicar; Então o sistema d
 d) O login deve funcionar corretamente.  
 e) Sempre que o usuário quiser, ele faz login.
 
-39. Rastreabilidade bidirecional entre requisitos e artefatos significa que:  
+Ainda não estudamos: ~~39. Rastreabilidade bidirecional entre requisitos e artefatos significa que:  
 a) Requisitos apontam apenas para testes.  
 b) Design aponta apenas para requisitos.  
 c) É possível navegar de um requisito até o artefato de implementação / teste e vice-versa.  
 d) Rastreabilidade é irrelevante em projetos ágeis.  
-e) Só teste e requisitos precisam de rastreabilidade.
+e) Só teste e requisitos precisam de rastreabilidade.~~
 
 40. Qual é o principal objetivo da fase de elicitação de requisitos?  
 a) Coletar informações dos stakeholders para entender necessidades e restrições.  
