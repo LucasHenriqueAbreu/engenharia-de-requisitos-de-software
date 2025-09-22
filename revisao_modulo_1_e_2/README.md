@@ -308,3 +308,5 @@ d) Testar o sistema em produção.
 e) Desenhar a arquitetura de software.
 
 ---
+
+### [GABARITO](gabarito.md)
