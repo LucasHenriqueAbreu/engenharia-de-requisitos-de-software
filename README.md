@@ -51,6 +51,8 @@ A disciplina de Engenharia de Requisitos de Software tem como foco apresentar os
 - Diagramas de atividade
 - Representação de cenários complexos
 
+[Trabalho](modulo3/trabalho/README.md)
+
 ### [MÓDULO 4 – Validação de Requisitos](modulo4/README.md)
 
 - Revisão de requisitos com stakeholders
